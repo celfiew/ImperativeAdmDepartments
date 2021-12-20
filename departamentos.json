@@ -1,0 +1,138 @@
+[
+  {
+    "id": 1,
+    "ambientes": 2,
+    "disponible": true,
+    "aceptaMascotas": true,
+    "cantidadPersonas": 2,
+    "precioAlquiler": 41419
+  },
+  {
+    "id": 2,
+    "ambientes": 1,
+    "disponible": false,
+    "aceptaMascotas": true,
+    "cantidadPersonas": 2,
+    "precioAlquiler": 29000
+  },
+  {
+    "id": 3,
+    "ambientes": 2,
+    "disponible": false,
+    "aceptaMascotas": false,
+    "cantidadPersonas": 3,
+    "precioAlquiler": 53000
+  },
+  {
+    "id": 4,
+    "ambientes": 1,
+    "disponible": true,
+    "aceptaMascotas": true,
+    "cantidadPersonas": 1,
+    "precioAlquiler": 17363
+  },
+  {
+    "id": 5,
+    "ambientes": 1,
+    "disponible": false,
+    "aceptaMascotas": false,
+    "cantidadPersonas": 1,
+    "precioAlquiler": 24100
+  },
+  {
+    "id": 6,
+    "ambientes": 2,
+    "disponible": false,
+    "aceptaMascotas": true,
+    "cantidadPersonas": 3,
+    "precioAlquiler": 46700
+  },
+  {
+    "id": 7,
+    "ambientes": 2,
+    "disponible": true,
+    "aceptaMascotas": true,
+    "cantidadPersonas": 2,
+    "precioAlquiler": 35890
+  },
+  {
+    "id": 8,
+    "ambientes": 4,
+    "disponible": false,
+    "aceptaMascotas": true,
+    "cantidadPersonas": 5,
+    "precioAlquiler": 84000
+  },
+  {
+    "id": 9,
+    "ambientes": 3,
+    "disponible": true,
+    "aceptaMascotas": true,
+    "cantidadPersonas": 5,
+    "precioAlquiler": 71780
+  },
+  {
+    "id": 10,
+    "ambientes": 3,
+    "disponible": false,
+    "aceptaMascotas": true,
+    "cantidadPersonas": 3,
+    "precioAlquiler": 55800
+  },
+  {
+    "id": 11,
+    "ambientes": 3,
+    "disponible": true,
+    "aceptaMascotas": true,
+    "cantidadPersonas": 4,
+    "precioAlquiler": 65960
+  },
+  {
+    "id": 12,
+    "ambientes": 3,
+    "disponible": false,
+    "aceptaMascotas": true,
+    "cantidadPersonas": 4,
+    "precioAlquiler": 63000
+  },
+  {
+    "id": 13,
+    "ambientes": 2,
+    "disponible": true,
+    "aceptaMascotas": true,
+    "cantidadPersonas": 2,
+    "precioAlquiler": 41904
+  },
+  {
+    "id": 14,
+    "ambientes": 2,
+    "disponible": true,
+    "aceptaMascotas": true,
+    "cantidadPersonas": 2,
+    "precioAlquiler": 38800
+  },
+  {
+    "id": 15,
+    "ambientes": 1,
+    "disponible": false,
+    "aceptaMascotas": true,
+    "cantidadPersonas": 1,
+    "precioAlquiler": 21500
+  },
+  {
+    "id": 16,
+    "ambientes": 1,
+    "disponible": false,
+    "aceptaMascotas": true,
+    "cantidadPersonas": 1,
+    "precioAlquiler": 28000
+  },
+  {
+    "id": 17,
+    "ambientes": 1,
+    "disponible": true,
+    "aceptaMascotas": true,
+    "cantidadPersonas": 1,
+    "precioAlquiler": 22310
+  }
+]
